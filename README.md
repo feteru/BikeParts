@@ -7,6 +7,6 @@ Nitecore HC60 Holder for:
 2. Road bike
 
 ### Progress & Priorities
- - [ x ] Print initial version for mountain bike
+ - [x] Print initial version for mountain bike
  - [ ] Improve torch holding
  - [ ] Print 2nd version for MTB
